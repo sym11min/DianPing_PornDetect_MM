@@ -1,0 +1,3 @@
+main_folder,shop_id,cover_img_count,dynamic_img_count,detail_img_count,video_count,comment_file_count,shop_info_exist
+non_porn_49_shops,shop_001,46,639,215,0,49,1
+porn_50_shops,shop_001,47,322,219,0,50,1
